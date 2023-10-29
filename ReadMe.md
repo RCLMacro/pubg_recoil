@@ -19,3 +19,9 @@ Get the macro [Link](https://www.recoilmacro.com/recoil-macro/recoil-script-pubg
 ## Video
 
 [![Watch the video](https://cdn.pixabay.com/photo/2013/07/13/11/45/play-158609_1280.png)](https://vimeo.com/814363033)
+
+---
+
+## Available configurations
+
+![Configuartions](https://github.com/RCLMacro/pubg_recoil/assets/149319666/c4946611-5c05-48ca-877e-cbe25bcdae72)
