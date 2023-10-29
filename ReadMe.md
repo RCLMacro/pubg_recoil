@@ -12,6 +12,10 @@
 - cross hair responsiveness is very high
 - All mouse, Any DPI , Any sensitivity
 
+---
+Get the macro [Link](https://www.recoilmacro.com/recoil-macro/recoil-script-pubg-pc-undetected-with-automatic-gun-detection/)
+---
+
 ## Video
 
 [![Watch the video](https://cdn.pixabay.com/photo/2013/07/13/11/45/play-158609_1280.png)](https://vimeo.com/814363033)
