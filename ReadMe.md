@@ -1,4 +1,4 @@
-# Pubg Recoil Script 2023
+# Pubg Recoil Script 2025
 - 24 no recoil macros
 - Autodetection of guns, attachments and scopes
 - shortcut key to adjust values from within the game
